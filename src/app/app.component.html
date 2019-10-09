@@ -1,0 +1,8 @@
+<section>
+  <ul>
+    <li *ngFor='let order of orders; let i = index' (click)="getDetails(i)">{{order.orderId}}</li>
+  </ul>
+</section>
+<div *ngIf="abc">
+  {{abc.fulfillStatus}}
+</div>

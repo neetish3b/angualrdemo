@@ -1,0 +1,161 @@
+[{
+    "id": 1000,
+    "firstName": "Veena",
+    "lastName": "Mayank",
+    "email": "Veena@gmail.com",
+    "phone": "7598001207",
+    "gender": "F",
+    "address": {
+      "houseNo": "Apt. 645",
+      "street": "Ram Nagar",
+      "society": "Saptagiri Homes",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India"
+    }
+  },
+  {
+    "id": 1002,
+    "firstName": "Ankit",
+    "lastName": "Talpade",
+    "email": "ankit@bbc.com",
+    "phone": "8878489304",
+    "gender": "M",
+    "address": {
+      "houseNo": "Apt. 978",
+      "street": "Patel Nagar",
+      "society": "Rawilay Vihar",
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "country": "India"
+    }
+  },
+  {
+    "id": 1003,
+    "firstName": "Isha",
+    "lastName": "Guha",
+    "email": "isha@gmail.com",
+    "phone": "9827472937",
+    "gender": "F",
+    "address": {
+      "houseNo": "Apt. 88B",
+      "street": "Patel Nagar",
+      "society": "Rawilay Vihar",
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "country": "India"
+    }
+  },
+  {
+    "id": 1004,
+    "firstName": "Monika",
+    "lastName": "Kumar",
+    "email": "Monika@gmail.com",
+    "phone": "9279848938",
+    "gender": "F",
+    "address": {
+      "houseNo": "Apt. 89C",
+      "street": "Patel Nagar",
+      "society": "Rawilay Vihar",
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "country": "India"
+    }
+  },
+  {
+    "id": 1005,
+    "firstName": "Roshan",
+    "lastName": "Lokhande",
+    "email": "Roshan@gmail.com",
+    "phone": "9176840174",
+    "gender": "M",
+    "address": {
+      "houseNo": "Apt. 98C",
+      "street": "Prestige White",
+      "society": "Rawilay Vihar",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India"
+    }
+  },
+  {
+    "id": 1006,
+    "firstName": "Denesh",
+    "lastName": "Ramdeen",
+    "email": "Denesh@gmail.com",
+    "phone": "9184053890",
+    "gender": "M",
+    "address": {
+      "houseNo": "Apt. 674",
+      "street": "Patel Nagar",
+      "society": "Rawilay Vihar",
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "country": "India"
+    }
+  },
+  {
+    "id": 1007,
+    "firstName": "Mahima",
+    "lastName": "Rana",
+    "email": "Mahima@gmail.com",
+    "phone": "9245890654",
+    "gender": "F",
+    "address": {
+      "houseNo": "Apt. 774",
+      "street": "Patel Nagar",
+      "society": "Rawilay Vihar",
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "country": "India"
+    }
+  },
+  {
+    "id": 1008,
+    "firstName": "Deepak",
+    "lastName": "Ahuja",
+    "email": "Deepak1@gmail.com",
+    "phone": "9969187655",
+    "gender": "M",
+    "address": {
+      "houseNo": "Apt. 557",
+      "street": "Patel Nagar",
+      "society": "Rawilay Vihar",
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "country": "India"
+    }
+  },
+  {
+    "id": 1009,
+    "firstName": "Pulkit",
+    "lastName": "Kasyap",
+    "email": "Pulkit@gmail.com",
+    "phone": "8895091899",
+    "gender": "M",
+    "address": {
+      "houseNo": "Apt. 875",
+      "street": "Patel Nagar",
+      "society": "Rawilay Vihar",
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "country": "India"
+    }
+  },
+  {
+    "id": 1010,
+    "firstName": "Dikawela",
+    "lastName": "kulkarni",
+    "email": "Dikawela@gmail.com",
+    "phone": "9910789238",
+    "gender": "M",
+    "address": {
+      "houseNo": "Apt. 129",
+      "street": "Mantri Alypne",
+      "society": "Mantri Alypne",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India"
+    }
+  }
+]
